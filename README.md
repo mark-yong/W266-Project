@@ -1,8 +1,8 @@
 ## Process
-Vocab extraction - Word Embeddings.ipynb
-ReVerb extraction - Reverb Extraction.ipynb
-Event extraction - Event Embeddings_1_4.ipynb
-Stock prediction - Stock_Prediction_2_3.ipynb
+* Vocab extraction - Word Embeddings.ipynb
+* Event extraction - Reverb Extraction.ipynb
+* Event emebedding - Event Embeddings_1_4.ipynb
+* Stock direction prediction - Stock_Prediction_2_3.ipynb
 
 ## Files (Not included)
 Headlines
